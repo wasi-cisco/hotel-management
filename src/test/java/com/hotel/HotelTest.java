@@ -1,7 +1,7 @@
 package com.hotel.domain;
 
 import org.junit.jupiter.api.Test;
-
+import com.hotel.domain.value.Name;
 import static org.junit.jupiter.api.Assertions.*;
 
 class HotelTest {
